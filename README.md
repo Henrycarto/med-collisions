@@ -1,5 +1,7 @@
 # Medicine collisions
 
+Live: https://med-collisions.vercel.app
+
 Every medicine a patient received, laid out by when it was actually acting rather than when it
 was charted. Interactions are marked where they overlapped in time, each one labelled as
 having happened, been averted by the team, or been checked and found clear.
